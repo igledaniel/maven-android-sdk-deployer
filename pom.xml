@@ -62,10 +62,10 @@
     <extras.google.play.apk.expansion.groupid>com.google.android.apk.expansion</extras.google.play.apk.expansion.groupid>
     <extras.google.play.licensing.groupid>com.google.android.licensing</extras.google.play.licensing.groupid>
 
-    <extras.compatibility.groupid>android.support</extras.compatibility.groupid>
+    <extras.compatibility.groupid>com.android.support</extras.compatibility.groupid>
 
     <extras.compatibility.v4.groupid>${extras.compatibility.groupid}</extras.compatibility.v4.groupid>
-    <extras.compatibility.v4.artifactid>compatibility-v4</extras.compatibility.v4.artifactid>
+    <extras.compatibility.v4.artifactid>support-v4</extras.compatibility.v4.artifactid>
     <extras.compatibility.v4.version.prefix></extras.compatibility.v4.version.prefix>
 
     <extras.compatibility.v7.appcompat.groupid>${extras.compatibility.groupid}</extras.compatibility.v7.appcompat.groupid>
